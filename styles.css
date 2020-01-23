@@ -1,0 +1,27 @@
+.heads {
+  position: absolute;
+  left: 35%;
+}
+
+.tails {
+  position: absolute;
+  left: 35%;
+}
+
+.resultstext {
+  position: absolute;
+  left: 33%;
+  top: 55%;
+  font-size: 55px;
+}
+
+.flipbutton {
+  position: absolute;
+  left: 42%;
+  top: 65%;
+}
+
+.fliper {
+  width: 200px;
+  height: 50px;
+}
